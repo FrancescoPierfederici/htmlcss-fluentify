@@ -3,14 +3,10 @@
     padding:0;
     box-sizing: border-box;
 }
-
-
 header > .nav-bar{
     height: 100px;
     background-color: rgb(41, 41, 119);
     line-height: 100px;
-    
-    
 }
 .logo{
     margin-right: 50px;
@@ -19,8 +15,6 @@ header > .nav-bar{
 
 .float-left{
     float: left;
-
-
 }
 .nav-bar > ul{
     list-style: none;
@@ -154,4 +148,76 @@ div .first-title{
     left: 50%;
     top:50%;
     font-size: 18px;
+}
+article  .thirdcontainer{
+    height: 600px;
+    
+    position: relative;
+    margin:auto;
+    width: 80%;
+    
+
+}
+ .profile-image{
+    height: 150px;
+    width: 33,33%;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+.computer-photo{
+    height: 150px;
+    width: 33,33%;
+    margin-left: 180px;
+    margin-top: 50px;
+   
+}
+.document-photo{
+    height: 180px;
+    width: 33,33%;
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
+.text-green{
+    color: chartreuse;
+    
+ }
+
+.textgreen-center{
+    margin-left: 50px;
+
+   }
+   /* .textcontainer{
+    width: 100%;
+
+   }
+    */
+
+.textgreen-center-second{
+
+    margin-left: 100px;
+    }
+.foot{
+    margin: auto;
+     width: 80%;
+ }
+.text-green-secondtitle{
+    /* margin-right: 70px; */
+    margin-left: 100px;
+    color: chartreuse;
+
+}
+.textgreen-center-third{
+
+    margin-left:60px;
+}
+.margin{
+    margin-top: 40px;
+}
+.marginlines{
+    width: 50px;
+    margin: auto;
+    margin-top: 50px;
+    color: gray;
 }
