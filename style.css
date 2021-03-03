@@ -129,3 +129,29 @@ div .first-title{
     
 
 }
+.background-gray{
+    height: 140px;
+    background-color: lightgray;
+    position: relative;
+
+}
+.textbackgroundgray{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top:50%;
+    
+    
+    
+    /* height: 140px; */
+    
+
+}
+.firstparagraph{
+    color: gray;
+    position: absolute;
+    transform: translate(-50%,90%);
+    left: 50%;
+    top:50%;
+    font-size: 18px;
+}
