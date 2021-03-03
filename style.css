@@ -7,7 +7,7 @@
 
 header > .nav-bar{
     height: 100px;
-    background-color: rgb(50, 50, 148);
+    background-color: rgb(41, 41, 119);
     line-height: 100px;
     
     
@@ -61,7 +61,7 @@ li{
 .button{
     color: white;
     text-decoration: none;
-    background-color:rgb(50, 50, 148); 
+    background-color: rgb(41, 41, 119);
     border: 1px solid white;
     border-radius: 5px;
     margin-right: 10px;
@@ -83,5 +83,49 @@ span a{
     padding-left: 10px;
     padding-right: 10px;
 
+
+}
+.hero-section{
+    height: 400px;
+    background-color: rgb(41, 41, 119);
+    position: relative;
+
+
+}
+div .first-title{
+    color: white;
+    
+
+
+}
+.secondcontainer{
+    margin:auto;
+    width: 80%;
+    
+}
+.textcontain{
+    position: absolute;
+    top:100px
+
+}
+.first-title{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.button-three{
+    background-color: yellowgreen;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    
+}
+.background-photo{
+    height: 100%;
+   
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    
 
 }
